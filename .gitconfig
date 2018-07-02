@@ -1,0 +1,15 @@
+[user]
+	name =fongchi
+	email =gy919293@gmail.com
+[color]
+	ui=true
+[alias]
+	a=add
+	b=branch
+	bd=brancd -D
+	bl=branch -l
+	cm=commit -m
+	co=checkout
+	sb=show-branch
+	st=status
+	DP=/d/zzz
